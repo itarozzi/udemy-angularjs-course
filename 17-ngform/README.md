@@ -15,7 +15,7 @@ Tale function esegue il push della variabile dataform dentro l'array.
     !! attenzione a non passare il valore  by reference, altrimenti tutti gli elementi dell'array vengono sovrascritti con l'ultimo inserito. Usare quindi una copia, attraverso angular.copy
     
 Nel codice HTML del form, dentro add-event.html, vado a fare il binding dei campi del form con l'ng-model che chiamo eventForm (ng-model="eventForm.name" ....)
-Nel tag <form> vado ad aggiungere la funzione del controller da eseguire al post: ng-submit="formSubmit(eventForm)"
+Nel tag \<form\> vado ad aggiungere la funzione del controller da eseguire al post: ng-submit="formSubmit(eventForm)"
 
 
 STEP 2 - refactoring using a service
