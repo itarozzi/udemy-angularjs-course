@@ -1,4 +1,4 @@
-Lezione 17 - Angula Forms
+Lezione 17 - Angular Forms
 ==========================
 
 
@@ -22,5 +22,10 @@ STEP 2 - refactoring using a service
 ------------------------------------
 Scopo del refactory e' quello di separare il codice del post dal controller.
 
+Creo una directory services per tenere separati i services.
+All'interno di questa creo il file eventFactory in cui definisco la eventFactory.
+Nella eventFactory creo le funzioni che costituiranno la mia API
+
+Nel controller, modifico la definizione facendo l'injection anche della eventFactory e poi utilizzo quest'ultima per aggiungere i dati del form alla variabile $scope.event
 
 
