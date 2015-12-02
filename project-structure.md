@@ -32,3 +32,8 @@ source: https://kkschick.wordpress.com/2014/12/12/setting-up-the-structure-and-r
         index.html
     tests.py  ==> Python module containing unit tests
     ```
+
+
+To be tested:
+--------------
+https://github.com/shea256/flask-app-generator
