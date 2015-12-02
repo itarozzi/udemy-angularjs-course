@@ -31,7 +31,7 @@ source: https://kkschick.wordpress.com/2014/12/12/setting-up-the-structure-and-r
     templates/  ==> Sub-directory for the index page
         index.html
     tests.py  ==> Python module containing unit tests
-    ```
+```
 
 
 To be tested:
