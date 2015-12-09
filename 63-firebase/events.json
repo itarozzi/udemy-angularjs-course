@@ -1,0 +1,94 @@
+{"events":[{
+        "id": "1",
+        "name": "Metallica",
+        "location": "Milan",
+        "description": "Metallica in Concert",
+        "price" :"150",
+        "date": "2016-10-11",
+        "category": {
+            "id": "1",
+            "name": "Music"
+        },
+        "email": "metallica@webyourmind.com",
+        "isSpecial": "false"
+    }, {
+        "id": "2",
+        "name": "Sherlock Holmes",
+        "location": "Dublin",
+        "description": "A great movie",
+         "price" :"10",
+        "date": "2015-10-01",
+        "category": {
+            "id": "2",
+            "name": "Cinema"
+        },
+        "email": "sherlock@webyourmind.com",
+        "isSpecial": "true"
+
+    }, {
+        "id": "3",
+        "name": "AC/DC",
+        "description": "AC/DC Tour",
+         "price" :"150",
+        "location": "Las Vegas",
+        "date": "2015-10-20",
+        "category": {
+            "id": "1",
+            "name": "Music"
+        },
+        "email": "acdc@webyourmind.com",
+        "isSpecial": "false"
+    }, {
+        "id": "4",
+        "name": "PS10Launch",
+        "description": "Playstation10LaunchEvent",
+        "price" :"300",
+        "location": "Tokyo",
+        "date": "2026-10-01",
+        "category": {
+            "id": "3",
+            "name": "Games"
+        },
+        "email": "avengers@webyourmind.com",
+        "isSpecial": "true"
+    }, {
+        "id": "5",
+        "name": "Bruno Mars",
+        "location": "Milan",
+        "description": "Bruno in Concert",
+        "price" :"100",
+        "date": "2016-10-11",
+        "category": {
+            "id": "1",
+            "name": "Music"
+        },
+        "email": "bruno@webyourmind.com",
+        "isSpecial": "false"
+    }, {
+        "id": "6",
+        "name": "The Avengers",
+        "location": "Dublin",
+        "description": "A great movie",
+        "price" :"10",
+        "date": "2015-10-01",
+        "category": {
+            "id": "2",
+            "name": "Cinema"
+        },
+        "email": "avengers@webyourmind.com",
+        "isSpecial": "false"
+    }, {
+        "id": "7",
+        "name": "Motley Crue",
+        "description": "Motley Crue Tour",
+        "price" :"300",
+        "location": "Las Vegas",
+        "date": "2015-10-20",
+        "category": {
+            "id": "1",
+            "name": "Music"
+        },
+        "email": "motley@webyourmind.com",
+        "isSpecial": "false"
+    }]
+}
